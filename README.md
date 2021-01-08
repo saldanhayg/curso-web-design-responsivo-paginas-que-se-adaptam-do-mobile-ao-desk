@@ -8,7 +8,7 @@
 
 ## Sobre: 
 
-Esse repositório referente ao ***Curso - WEB DESIGN RESPONSIVO: PÁGINAS QUE SE ADAPTAM DO MOBILE AO DESK* ***, da ** Formação Front End Alura** . <br><br>
+Esse repositório referente ao *** Curso - WEB DESIGN RESPONSIVO: PÁGINAS QUE SE ADAPTAM DO MOBILE AO DESK ***, da ** Formação Front End Alura** . <br><br>
 
 <ul>Tópicos do curso <br>
 	<li>Conheça a diferença de sites mobiles e design responsivos</li>
